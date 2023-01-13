@@ -24,6 +24,7 @@ ss$morph$phcolor
 ss$morph$phfrags
 ss$morph$phpores
 ss$morph$phstructure
+ss$morph$pediagfeatures
 ss$morph$rmf
 
 # Geochemical Data
